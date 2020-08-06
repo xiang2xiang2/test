@@ -1,1 +1,6 @@
-printf("123")
+int main(){
+
+  printf("123")
+
+}
+
