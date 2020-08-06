@@ -1,6 +1,7 @@
 int main(){
-
-  printf("123")
+include<stdio.h>
+  
+  printf("123");
 
 }
 
